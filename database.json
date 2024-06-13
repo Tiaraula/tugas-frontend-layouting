@@ -1,0 +1,50 @@
+{
+  "stuff": [
+    {
+      "id": "fbb0",
+      "name": "Bread",
+      "price": "21",
+      "category": "Food"
+    },
+    {
+      "id": "2ac3",
+      "name": "Chip",
+      "price": "12",
+      "category": "Food"
+    },
+    {
+      "id": "705f",
+      "name": "Pie",
+      "price": "7",
+      "category": "Food"
+    },
+    {
+      "id": "75ba",
+      "name": "Banana",
+      "price": "5",
+      "category": "Fruit"
+    }
+  ],
+  "category": [
+    {
+      "id": "6743",
+      "name": "Vegetable"
+    },
+    {
+      "id": "f1ed",
+      "name": "Drink"
+    },
+    {
+      "id": "99b3",
+      "name": "Food"
+    },
+    {
+      "id": "ce74",
+      "name": "Fish"
+    },
+    {
+      "id": "0572",
+      "name": "Fruit"
+    }
+  ]
+}
